@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "magnific__genera-3-imagenes-parel-splsh-de-mi-app-ios-un-car__55959 1.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "magnific__genera-3-imagenes-parel-splsh-de-mi-app-ios-un-car__55959.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "magnific__genera-3-imagenes-parel-splsh-de-mi-app-ios-un-car__55959 2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
